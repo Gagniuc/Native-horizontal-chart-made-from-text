@@ -1,4 +1,4 @@
-# utf-horizontal-bar-chart
+# Horizontal chart made from UTF-8 characters
 
 Ex. (85) - Horizontal chart with UTF characters proportional with max array.
 
